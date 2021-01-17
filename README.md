@@ -1,66 +1,35 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
-
-[SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
-
-## Preview
-
-[![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
-
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/)
-* Install via npm: `npm i startbootstrap-sb-admin-2`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
-
-## Usage
-
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-### Gulp Tasks
-
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm installed globally in order to use this build environment. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
 # purchasingsystem-frontend
+
+This is the Repository for the Frontend Stack for The Phone Balance Purchasing System.
+
+# Requierements
+In this frontend stack, im using Bootsrap Free Themes.
+- The Theme that i use is : SB Admin 2. You can download the tempale here : [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/). It is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+
+# Open the Project
+- You can open this Frontend Project with Visual Studio Code. You can download Visual Studio Code here : [Visual Studio Code](https://code.visualstudio.com/). It is Free.
+
+
+# Run the Project
+
+After downloading Visual Studio Code, then you can Open the Project with it.
+For running the Frontend Project using local Live Server, you need to install Live Server on Visual Studio Code. You can install the Extension here : [Visual Studio Code Live Server Extension Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+For running the Live Server on the Visual Studio Code, please see image below for the instruction
+On the image below, you need to click the Go Live Button at bootom right corner on your Visual Studio Code
+
+![Postgre](https://i.ibb.co/5BNjkNP/Screen-Shot-2021-01-17-at-21-11-10.png)
+
+After running, you will see  Server Running on Port 7007, as describing on the image below :
+
+![Postgre](https://i.ibb.co/X5bbPcP/Screen-Shot-2021-01-17-at-21-14-14.png)
+
+Open your browser (im using Chrome, Safari and Mozilla/ The Modern Browser) type : localhost:7007 and you will see  The Web Frontend Application on the Browser, as describing on the image below :
+
+![Postgre](https://i.ibb.co/jMSQv0k/Screen-Shot-2021-01-17-at-21-18-04.png)
+
+License
+----
+MIT
+
+**Made with Love by Free Software Technologies Stack**
